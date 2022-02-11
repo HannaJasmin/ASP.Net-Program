@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<WBSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DefaultPageText1>KTS</DefaultPageText1>
+  <DefaultPageText2>INFO TECH</DefaultPageText2>
+  <HeaderText>HEADER</HeaderText>
+  <FooterText>FOOTER</FooterText>
+</WBSettings>
